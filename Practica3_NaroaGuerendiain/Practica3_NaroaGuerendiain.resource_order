@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sonidos","order":1,"path":"folders/Sonidos.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"Snd_GameOver","order":2,"path":"sounds/Snd_GameOver/Snd_GameOver.yy",},
+    {"name":"Snd_NextLevel","order":1,"path":"sounds/Snd_NextLevel/Snd_NextLevel.yy",},
+  ],
+}
